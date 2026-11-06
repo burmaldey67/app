@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ivan/Documents/app/main'
+relocations:     []
+...
